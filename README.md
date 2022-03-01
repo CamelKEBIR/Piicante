@@ -25,9 +25,13 @@ Utilisation d'une base de donnée afin que les différentes informations puissen
 
 # Technologies, Modules et outils utilisés pour la réalisation
 
-Express &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mongoose-unique-validator
+Express
 
-Mangoose&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Multer
+Mongoose-unique-validator
+
+Mangoose
+
+Multer
 
 Jsonwebtoken
 
