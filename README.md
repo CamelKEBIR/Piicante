@@ -25,15 +25,21 @@ Utilisation d'une base de donnée afin que les différentes informations puissen
 
 # Technologies, Modules et outils utilisés pour la réalisation
 
-Express &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mongoose-unique-validator
+Express &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mongoose-unique-validator
 
-Mangoose &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Multer
+Mangoose&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Multer
 
-Dotenv                    Jsonwebtoken
+Jsonwebtoken
 
-Bcrypt                    Password-validator
+Dotenv
 
-Helmet                    NPM
+Bcrypt
+
+Password-validator
+
+Helmet 
+
+NPM
 
 
 
