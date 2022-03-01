@@ -18,6 +18,8 @@ Construction de l'API permettant avec toutes les fonctionnalités demandé par l
 
 Mise en place de plusieurs middlewares pour la sécurité
 
+Permettre le stockage d'images
+
 Utilisation d'une base de donnée afin que les différentes informations puissent interagir avec la database pré-programmé mangoDB (noSql)
 
 
